@@ -1,0 +1,12 @@
+{
+  "project_name": "DevSync_test",
+  "lead": "Vem-Manish",
+  "tech_stack": "FastAPI + Vanilla JS",
+  "members": {
+    "Gautam-afk-eng": {
+      "role": "editor",
+      "branch": "feat/UI_editor",
+      "assigned_files": []
+    }
+  }
+}
